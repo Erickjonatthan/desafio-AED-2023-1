@@ -1,5 +1,5 @@
 import cliente.Cliente;
-import fila.FilaBanco;
+import filas.FilaBanco;
 
 public class BancoOphidian {
     public static void main(String[] args) {
