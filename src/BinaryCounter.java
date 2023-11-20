@@ -19,7 +19,7 @@ public class BinaryCounter {
            
         }
     
-
+        scan.close();
     
     }
 
