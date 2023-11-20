@@ -1,18 +1,5 @@
-## Getting Started
+## Desafio:
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+O Banco Ophidian - No Banco Ophidian, um único caixa atende uma longa fila de pessoas. Novos clientes se juntam ao final da fila, e o caixa só atenderá um cliente se ele tiver toda a papelada apropriada. Escreva uma representação dessa fila; 25% do tempo (aleatório), a papelada de um cliente não está totalmente correta, e ele volta para o final da fila. Mostre como seria o saguão do banco durante alguns minutos.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Binário - Escreva uma classe BinaryCounter que solicita ao usuário um valor n e, em seguida, utiliza uma fila para gerar e imprimir todos os números binários com valores decimais de 1 a n, de maneira semelhante à execução de exemplo mostrada abaixo. Utilize a implementação QueueArray da interface Queue para realizar essa tarefa.
