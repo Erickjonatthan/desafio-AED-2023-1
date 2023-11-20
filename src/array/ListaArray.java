@@ -125,10 +125,7 @@ public class ListaArray{
 
     
     public void removeInicio() {
-        for (int i = 0; i < indice_fim; i++) {
-            if(array[i] == array[0])
-            removeIndice(i);
-        }
+        removeIndice(0);
         
     }
 
